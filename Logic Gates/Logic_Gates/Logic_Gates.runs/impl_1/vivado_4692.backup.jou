@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb  9 01:19:57 2018
+# Process ID: 4692
+# Current directory: C:/Users/Metin/Desktop/FPGA/Logic Gates/Logic_Gates/Logic_Gates.runs/impl_1
+# Command line: vivado.exe -log Logic_Gates.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Logic_Gates.tcl -notrace
+# Log file: C:/Users/Metin/Desktop/FPGA/Logic Gates/Logic_Gates/Logic_Gates.runs/impl_1/Logic_Gates.vdi
+# Journal file: C:/Users/Metin/Desktop/FPGA/Logic Gates/Logic_Gates/Logic_Gates.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Logic_Gates.tcl -notrace
